@@ -16,6 +16,7 @@ class ViewController: UIViewController {
         
         // Github_tut_1
         // Github_tuto2
+        // this line from iPhone app
     }
 
     override func didReceiveMemoryWarning() {
